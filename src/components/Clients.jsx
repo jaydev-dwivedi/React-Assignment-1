@@ -49,54 +49,6 @@ function Clients() {
           alt=""
           className="absolute left-0 -top-20 md:-top-10 2xl:top-10 xl:-top-4 w-20 lg:w-28 xl:w-28 2xl:w-36 -z-50" />
       </div>
-      {/* <div className="sm:w-full flex flex-col sm:flex-row sm:flex-wrap gap-y-12 mt-10">
-        <div className="flex justify-center gap-x-16">
-          <img
-            src="/Logos/Boroondara-Color.png"
-            alt=""
-            className="object-contain w-32" />
-          <img
-            src="/Logos/Port-Philip-logo.png"
-            alt=""
-            className="object-contain w-28" />
-        </div>
-        <div className="flex justify-center gap-x-16">
-          <img
-            src="/Logos/Brigitte-Logo.png"
-            alt=""
-            className="object-contain w-32" />
-          <img
-            src="/Logos/Level-Crossing-Removal-Logo.png"
-            alt=""
-            className="object-contain w-28" />
-        </div>
-        <div className="flex justify-center gap-x-16">
-          <img
-            src="/Logos/BHP_2017_logo.png"
-            alt=""
-            className="object-contain w-28" />
-          <img
-            src="/Logos/Victoria-logo.png"
-            alt=""
-            className="object-contain w-28" />
-        </div>
-        <div className="flex justify-center gap-x-16">
-          <img
-            src="/Logos/Pacific-Hydro-logo.png"
-            alt=""
-            className="object-contain w-32" />
-          <img
-            src="/Logos/VCOSS-logo.png"
-            alt=""
-            className="object-contain w-28" />
-        </div>
-        <div className="flex justify-center gap-x-16">
-          <img
-            src="/Logos/MelbourneWaterLogo.png"
-            alt=""
-            className="object-contain w-48" />
-        </div>
-      </div> */}
     </section>
   )
 }
