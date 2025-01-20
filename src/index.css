@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply font-rubik;
+  }
+}
+
+@layer utilities {
+  .h1 {
+    @apply text-4xl 2xl:text-[3.5rem]/[4.1475rem] font-semibold 2xl:font-medium;
+  }
+
+  .h2 {
+    @apply text-5xl font-medium
+  }
+
+  .h3 {
+    @apply text-2xl font-semibold;
+  }
+}
+
+:root {
+  --gray-1: rgb(44, 44, 44);
+  --gray-2: rgb(169, 169, 169);
+  --white: #ffffff;
+  --sky-blue: #BFDBFF;
+}
